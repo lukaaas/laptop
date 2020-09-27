@@ -1,4 +1,4 @@
-//test
+
 public class Aufgabe11 {
 	public static void main(String []args)
 	{
