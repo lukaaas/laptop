@@ -1,5 +1,5 @@
 
-public class main {
+public class main {//neuer name
 
 	public static void main (String[]args)
 	{
