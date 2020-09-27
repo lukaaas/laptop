@@ -1,0 +1,57 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:380');
+.vbox{
+	-fx-background-color: rgba(56,54,52,0.8) ;
+	-fx-border-radius: 10;
+	-fx-background-radius: 10;
+	-fx-min-height: 700;
+	-fx-min-width: 500;
+	-fx-padding: 25;
+	-fx-spacing: 25;
+	-fx-font-family: "Source Sans Pro";
+	-fx-fill: yellow;
+}
+.vbox .label{
+	-fx-text-fill: yellow;
+}
+
+.vbox .button{
+	
+    -fx-background-color:rgba(56,54,52,1);
+    -fx-text-fill: yellow;
+}
+
+.vbox .combo-box{
+	-fx-background-color:rgba(56,54,52,1);
+    -fx-text-fill: yellow;
+}
+
+.vbox .text-field{
+	-fx-background-color:lightgray;
+    -fx-text-fill: yellow;
+}
+
+.hbox{
+	-fx-padding: 15;
+	-fx-spacing: 25;
+}
+
+.etappenplan{
+	-fx-background-color: rgba(56,54,52,0.8);
+}	
+
+.vboxFunctions{
+	-fx-alignment: center;
+}
+
+.textarea .content{
+	-fx-background-color: rgba(56,54,52, 1);
+}
+
+.textarea{
+	-fx-text-fill: yellow;
+}
+
+
+
